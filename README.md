@@ -17,3 +17,7 @@
 ### channel-demo
 
 > github.com/ephuizi/go-demo/channel-demo
+
+### alignof
+
+> github.com/ephuizi/go-demo/alignof
